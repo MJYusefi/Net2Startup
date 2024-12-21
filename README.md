@@ -1,6 +1,12 @@
 # net2_startup
 A program that connect to net2.sharif.ir automatically 
 
+
+## Dependency
+install requests library
+```
+pip install requests
+```
 ## Usage
 
 1. You must connected to sharif-wifi before run the .BAT file
